@@ -12,12 +12,12 @@ import datetime
 np.random.seed(0)
 
 
-test_dir = './dataset/images/'
+test_dir = './PIQA_dataset/images/'
 output_dir = './results/'
 loaded = keras.models.load_model("checkpoints/ckpt")
 
 
-mos_df   = pd.read_csv('./dataset/X_test.csv')
+mos_df   = pd.read_csv('./PIQA_dataset/X_test.csv')
 mos_np = np.array(mos_df)
 nam_dict = {}
 for i in mos_np:
