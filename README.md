@@ -5,7 +5,7 @@ This is a tensorflow implementation of perceptual low-light image quality assess
 benchmarking low-light image quality assessment](https://pages.github.com/).
 
 ```
-@ARTICLE{DLN2020,
+@ARTICLE{xxx2022,
   author={Muhammad Tahir Rasheed and Daming Shi and Hufsa Khan},
   journal={Signal Processing}, 
   title={Low-light Image Enhancement}, 
