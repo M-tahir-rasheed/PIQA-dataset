@@ -1,14 +1,9 @@
 # PIQA-dataset
 By Muhammad Tahir Rasheed, Daming Shi, Hufsa Khan
 
-This repo provides simple testing codes
+This is a tensorflow implementation of perceptual low-light image quality assessment [A comprehensive experiment-based review of low-light image enhancement methods and
+benchmarking low-light image quality assessment](https://pages.github.com/).
 
-## Dataset
-
-
-## Testing
-
-## BibtTex
 ```
 @ARTICLE{DLN2020,
   author={Muhammad Tahir Rasheed and Daming Shi and Hufsa Khan},
@@ -18,3 +13,16 @@ This repo provides simple testing codes
   doi={xyz},
 }
 ```
+
+## Dataset Link
+Download: [google drive](https://pages.github.com/) (Just unzip data to current folder)
+
+
+## Testing
+```
+> python test.py
+```
+
+
+## BibtTex
+
