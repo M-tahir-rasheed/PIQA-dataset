@@ -16,7 +16,7 @@ benchmarking low-light image quality assessment](https://pages.github.com/).
 ```
 
 ## PIAQ Dataset
-Download: [google drive](https://pages.github.com/) (Just unzip data to current folder)
+Download: [google drive](https://drive.google.com/file/d/1cJOUB2dp95fOyp55-7onj4Nnz65MwswJ/view?usp=sharing) (Just unzip data to current folder)
 
 ## Pre-trained Model
 You can donwload the pre-trained DenseNet121 on the PIQA dataset from [google drive](https://pages.github.com/) and extract inside the checkpoints folder.
