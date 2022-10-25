@@ -2,7 +2,7 @@
 By Muhammad Tahir Rasheed, Daming Shi, Hufsa Khan
 
 This is a tensorflow implementation of perceptual low-light image quality assessment [A comprehensive experiment-based review of low-light image enhancement methods and
-benchmarking low-light image quality assessment](https://pages.github.com/).
+benchmarking low-light image quality assessment](https://www.sciencedirect.com/science/article/abs/pii/S0165168422003607).
 
 ## Citation Information
 ```
