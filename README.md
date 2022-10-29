@@ -6,12 +6,13 @@ benchmarking low-light image quality assessment](https://www.sciencedirect.com/s
 
 ## Citation Information
 ```
-@ARTICLE{xxx2022,
-  author={Muhammad Tahir Rasheed and Daming Shi and Hufsa Khan},
-  journal={Signal Processing}, 
-  title={Low-light Image Enhancement}, 
+@article{rasheed2022comprehensive,
+  title={A comprehensive experiment-based review of low-light image enhancement methods and benchmarking low-light image quality assessment},
+  author={Rasheed, Muhammad Tahir and Shi, Daming and Khan, Hufsa},
+  journal={Signal Processing},
+  pages={108821},
   year={2022},
-  doi={xyz},
+  publisher={Elsevier}
 }
 ```
 
